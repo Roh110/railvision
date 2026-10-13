@@ -109,13 +109,3 @@ Drone operations must comply with applicable aviation regulations, railway permi
 ## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome. Developers can contribute to computer vision, backend development, frontend design, dataset preparation, testing, and drone integration.
-
-## 📌 Project Status
-
-**Status:** Concept / Development in Progress
-
-Rail Vision is a proposed AI-assisted railway inspection platform. Features, integrations, and performance will be validated as development progresses.
-
----
-
-**Rail Vision — Smarter Inspections. Safer Railways.**
