@@ -108,4 +108,4 @@ Drone operations must comply with applicable aviation regulations, railway permi
 
 ## 🤝 Contributions
 
-Contributions, suggestions, and improvements are welcome. Developers can contribute to computer vision, backend development, frontend design, dataset preparation, testing, and drone integration.
+Contributions, suggestions, and improvements are welcome.
