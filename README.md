@@ -107,5 +107,4 @@ Drone operations must comply with applicable aviation regulations, railway permi
 - 3D reconstruction of selected railway infrastructure
 
 ## 🤝 Contributions
-
 Contributions, suggestions, and improvements are welcome.
